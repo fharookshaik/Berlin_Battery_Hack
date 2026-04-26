@@ -1,0 +1,6 @@
+Method,MAE (kW),RMSE (kW),MAPE (%),Max Error (kW),R²
+Easy Mode (Consumption),0.0,0.0,0.0,0.0,1.0
+Rule-based (Consumption),2.506,6.697,502287.63,76.6,0.4621
+Rule-based (Feed-in),2.244,6.404,6439377.01,76.6,0.8421
+XGBoost (Consumption),0.882,2.278,11239.93,36.48,0.9378
+XGBoost (Feed-in),0.749,2.203,6895829.88,35.96,0.9813

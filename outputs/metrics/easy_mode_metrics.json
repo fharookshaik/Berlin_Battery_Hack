@@ -1,0 +1,16 @@
+{
+  "mode": "Easy",
+  "project": "A",
+  "mae_kw": 0.0,
+  "rmse_kw": 0.0,
+  "mape_percent": 0.0,
+  "max_error_kw": 0.0,
+  "r2_score": 1.0,
+  "mean_ground_truth_kw": 10.64,
+  "mean_reconstructed_kw": 10.64,
+  "total_intervals": 35040,
+  "overlap_intervals_both_positive": 2937,
+  "annual_consumption_gt_mwh": 93.21,
+  "annual_consumption_recon_mwh": 93.21,
+  "annual_balance_error_mwh": 0.0
+}

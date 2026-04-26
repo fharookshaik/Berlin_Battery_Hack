@@ -1,0 +1,19 @@
+{
+  "rule_based": {
+    "method": "Rule-based + Scaling",
+    "feedin_mae": 2.244,
+    "feedin_rmse": 6.404,
+    "consumption_mae": 2.506,
+    "consumption_rmse": 6.697,
+    "sc_ratio_error": 0.32
+  },
+  "xgboost": {
+    "method": "XGBoost",
+    "feedin_mae": 0.749,
+    "feedin_rmse": 2.203,
+    "consumption_mae": 0.882,
+    "consumption_rmse": 2.278,
+    "sc_ratio_error": 0.29
+  },
+  "timestamp": "2026-04-26 03:09:53.133397"
+}

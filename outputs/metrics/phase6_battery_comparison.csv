@@ -1,0 +1,4 @@
+Scenario,Self-Consumption Ratio (%),Autarky (%),Grid Import Reduction (%),Feed-in Reduction (%),Annual Battery Cycles
+Ground Truth,45.09,49.88,11.1,9.84,0.3
+Easy Mode,45.09,49.88,11.1,9.84,0.3
+Hard Mode (XGBoost),45.08,49.84,11.1,9.85,0.3

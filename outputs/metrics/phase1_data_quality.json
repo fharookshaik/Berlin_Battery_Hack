@@ -1,0 +1,28 @@
+{
+  "project": "A",
+  "period": "2023 full year",
+  "rows": 35040,
+  "checks": {
+    "total_rows": 35040,
+    "missing_values": {
+      "production_kw": 0,
+      "consumption_kw": 0,
+      "feed_in_kw": 0,
+      "grid_consumption_kw": 0
+    },
+    "duplicate_timestamps": "0",
+    "time_range_days": 364,
+    "expected_intervals": 35040,
+    "actual_intervals": 35040,
+    "gaps": 0
+  },
+  "annual_totals_mwh": {
+    "production_mwh": 103.11,
+    "grid_consumption_mwh": 54.55,
+    "feed_in_mwh": 64.45,
+    "consumption_mwh": 93.21
+  },
+  "self_consumption_ratio_calculated": 37.5,
+  "both_grid_feedin_positive_pct": 8.38,
+  "night_production_zero_pct": 51.1
+}
